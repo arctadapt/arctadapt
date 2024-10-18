@@ -30,23 +30,19 @@ Passionate about creating efficient and beautiful digital solutions. Always lear
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rev-fs&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rev-fs&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ## Current Focus
 
 - 🌐 Building responsive web applications with React
 - 🛠️ Crafting backend services with Node.js and Express
 - 📊 Exploring data visualization techniques
+- 📱 Developing Android applications
 
 ## Let's Connect
 
-📧 [Email](mailto:mochammadsyamihardiana@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/your-profile) | 🐦 [Twitter](https://twitter.com/your-handle)
-
----
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rev-fs.rev-fs)
+📧 [Email](mailto:mochammadsyamihardiana@gmail.com).
