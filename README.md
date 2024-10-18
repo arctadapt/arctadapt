@@ -1,6 +1,6 @@
 # Mochamad Syami Hardyana
 
-> "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death." - M. Syami Hardyana
+> "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death."
 
 ## About Me
 
