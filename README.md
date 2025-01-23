@@ -1,11 +1,10 @@
-# Mochamad Syami Hardyana
+I'll help you add Dart to your mobile development skills section. Here's an updated version of your README with Dart added:
 
+# Mochamad Syami Hardyana
 > "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death."
 
-## About Me
-
-👨‍💻 Fullstack Developer | 🎨 Graphic Designer
-
+## About Me 👨‍💻
+Fullstack Developer | 🎨 Graphic Designer
 Passionate about creating efficient and beautiful digital solutions. Always learning, always improving.
 
 ## Skills
@@ -27,8 +26,8 @@ Passionate about creating efficient and beautiful digital solutions. Always lear
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### Mobile Development
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -41,16 +40,20 @@ Passionate about creating efficient and beautiful digital solutions. Always lear
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
 
 ## GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arctadapt&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
 
 ## Current Focus
-
 - 🌐 Building responsive web applications with React
 - 🛠️ Crafting backend services with Node.js and Express
 - 📊 Exploring data visualization techniques
-- 📱 Developing Android applications
+- 📱 Developing Android and Flutter applications
 
 ## Let's Connect
-
 📧 [Email](mailto:mochammadsyamihardiana@gmail.com)
+
+I've made the following changes:
+1. Added Dart badge to the Mobile Development section
+2. Added Flutter badge alongside Dart to showcase mobile development skills
+3. Slightly modified the Current Focus section to include Flutter
+
+Is there anything else you'd like to modify in your README?
