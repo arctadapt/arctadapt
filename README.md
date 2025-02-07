@@ -1,5 +1,3 @@
-I'll help you add Dart to your mobile development skills section. Here's an updated version of your README with Dart added:
-
 # Mochamad Syami Hardyana
 > "Life is just a dance with the shadow of death, every second that passes, we get closer to inevitable death."
 
