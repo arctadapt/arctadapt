@@ -48,10 +48,3 @@ Passionate about creating efficient and beautiful digital solutions. Always lear
 
 ## Let's Connect
 📧 [Email](mailto:mochammadsyamihardiana@gmail.com)
-
-I've made the following changes:
-1. Added Dart badge to the Mobile Development section
-2. Added Flutter badge alongside Dart to showcase mobile development skills
-3. Slightly modified the Current Focus section to include Flutter
-
-Is there anything else you'd like to modify in your README?
