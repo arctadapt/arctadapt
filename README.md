@@ -1,5 +1,4 @@
 # Mochamad Syami Hardyana
-# SMK PRAKARYA INTERNASIONAL STUDENT
 
 ## ABOUT ME 👨‍💻
 Fullstack Developer | 🎨 Graphic Designer
