@@ -1,8 +1,8 @@
 # Mochamad Syami Hardyana
 
 ## ABOUT ME 👨‍💻
-Fullstack Developer
-Part of Ngubar.Tech as a Backend Developer!
+**Fullstack Developer**  
+Part of [Ngubar.Tech](https://ngubar.tech) as a Backend Developer!
 
 ## LET'S CONNECT 🤝
 📧 [Email](mailto:mochammadsyamihardiana@gmail.com)
