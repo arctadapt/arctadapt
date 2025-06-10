@@ -2,7 +2,7 @@
 
 ## ABOUT ME 👨‍💻
 **Fullstack Developer**  
-Part of [Ngubar.Tech](https://ngubar.tech) as a Backend Developer!
+Part of [Ngulik Bareng Technology](https://ngubartech) as a Backend Developer!
 
 ## LET'S CONNECT 🤝
 📧 [Email](mailto:mochammadsyamihardiana@gmail.com)
