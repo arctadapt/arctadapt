@@ -1,8 +1,8 @@
 # Mochamad Syami Hardyana
 
 ## ABOUT ME 👨‍💻
-Fullstack Developer | 🎨 Graphic Designer
-Passionate about creating efficient and beautiful digital solutions. Always learning, always improving.
+Fullstack Developer
+Part of Ngubar.Tech as a Backend Developer!
 
 ## LET'S CONNECT 🤝
 📧 [Email](mailto:mochammadsyamihardiana@gmail.com)
